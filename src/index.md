@@ -6,3 +6,5 @@ web usan el Lorem Ipsum como su texto por defecto, y al hacer una búsqueda de "
 resultado muchos sitios web que usan este texto si se encuentran en estado de desarrollo. Muchas versiones
 han evolucionado a través de los años, algunas veces por accidente, otras veces a propósito (por ejemplo
 insertándole humor y cosas por el estilo).
+
+Estos son nuevos cambios
